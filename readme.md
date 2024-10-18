@@ -138,7 +138,7 @@
     - 리뷰 정보: 작성자 이름, 별점, 작성일, 내용
     - *(선택) 전체 평점 분포도*
         
-        ![image.png](image.png)
+        ![image.png](docs/image.png)
         
     - *(선택) 호스트의 답변 표시*
     - 리뷰 목록 페이지네이션으로 표시
@@ -161,9 +161,9 @@
     - 프로필 이미지 업로드/변경 기능
     - 개인정보 수정 폼 (이름, 전화번호, 이메일 등)
         
-        ![image.png](image%201.png)
+        ![image.png](docs/image_1.png)
         
-        ![image.png](image%202.png)
+        ![image.png](docs/image_2.png)
         
     - 비밀번호 변경 기능
 - **관련 테이블**: User
@@ -175,7 +175,7 @@
     - 예약 목록 표시 (날짜, 숙소 정보, 상태 등)
         - 체크인 예정(여행 전), 체크아웃 예정(여행 중), 작성할 후기(여행 완료)
         
-        ![image.png](image%203.png)
+        ![image.png](docs/image_3.png)
         
 - **관련 테이블**: Order, Room
 
@@ -185,7 +185,7 @@
 - **구현 상세**:
     - 작성한 리뷰 목록 표시
         
-        ![image.png](image%204.png)
+        ![image.png](docs/image_4.png)
         
     - 리뷰 수정 및 삭제 기능
 - **관련 테이블**: Review, Order
