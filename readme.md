@@ -1,4 +1,4 @@
-# 레포지토리 문서
+# Airbnb 클론 프로젝트 + SpringBoot
 
 # 소개
 
@@ -270,3 +270,7 @@
 
 - 본인 외 1인의 승인 필요
 - PR 제출 후 다음날 오전 10시까지 리뷰 완료 (주말 포함)
+
+### 참고 자료
+- SpringBoot 강의: https://inf.run/Hywa
+- GitHub 강의(무료): https://codingapple.com/course/git-and-github/
