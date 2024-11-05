@@ -1,5 +1,4 @@
-# Airbnb 클론 프로젝트 + SpringBoot!
-test
+# Airbnb 클론 프로젝트 + SpringBoot
 
 # 소개123
 
